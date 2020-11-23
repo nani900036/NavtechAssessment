@@ -1,5 +1,3 @@
-
-# Welcome to the SASST SCANNER Cheat Sheet Series
 # Scanner XPath 
 Scanner is a system for developing applications that efficiently process large video datasets
 
